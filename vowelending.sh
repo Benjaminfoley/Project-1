@@ -1,2 +1,2 @@
 #!/bin/sh
-ls -a | ^[aAeEiIoOuU]$
+ls -a | '^[aAeEiIoOuU]$'
